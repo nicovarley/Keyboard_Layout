@@ -1,2 +1,2 @@
-# TEA_Keyboard_Layout
-A new ISO UK keyboard layout designed for home row and bilateral bigram typing.
+# SATE_Keyboard_Layout
+A new UK-ISO keyboard layout. Designed for comfort, speed, programming, familiar hotkeys and minimal same finger use.
